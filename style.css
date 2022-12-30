@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+body {
+     
+    background-color: #CDCDCD;
+}
+
+#header {
+    position: absolute;
+    width: 1512px;
+    height: 76px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+#title {
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 21px;
+    top: 24px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+
+}
+
+#inputField {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1226px;
+    height: 65px;
+    left: 29px;
+    top: 104px;
+    font-size: 25px;
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+
+#search {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 1268px;
+    top: 103px;
+    color: white;
+    background: #000000;
+
+}
+
+/* #search:hover {
+    background-color: gray;
+}
+
+.btn:hover {
+    background-color: grey;
+}
+
+.btn {
+    background-color: #000000;
+} */
+
+#allButtons {
+    display: flex;
+}
+
+#aToz {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 29px;
+    top: 197px;
+    color: white;
+    background-color: #000000;
+
+
+}
+
+#zToA {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 276px;
+    top: 197px;
+    color: white;
+    background-color: #000000;
+
+
+}
+
+#marks {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 523px;
+    top: 197px;
+    color: white;
+    background-color: #000000;
+
+
+}
+
+#passing {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 770px;
+    top: 197px;
+    color: white;
+    background-color: #000000;
+
+
+
+}
+
+#classing {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 1017px;
+    top: 197px;
+    color: white;
+    background-color: #000000;
+
+
+}
+
+#gender {
+    position: absolute;
+    width: 217px;
+    height: 66px;
+    left: 1264px;
+    top: 197px;
+    color: white;
+    background-color: #000000;
+}
+
+#wholeData {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1452px;
+    height: 65px;
+    left: 29px;
+    top: 350px;
+    text-align: center;
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+
+
+/* .tablehead{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1452px;
+    height: 85px;
+    left: 29px;
+    top: 291px;
+    text-align: center;
+    /* background: #D9D9D9; */
+    /* border: 1px solid #000000; */
+/* } */
